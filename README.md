@@ -1,2 +1,2 @@
 # Azure-Resume
-My Azure Rsume, following ACG Project Video
+My Azure Resume, following ACG Project Video
